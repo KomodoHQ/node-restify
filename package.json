@@ -73,7 +73,7 @@
     "spdy": "^1.26.5",
     "tunnel-agent": "^0.4.0",
     "verror": "^1.4.0",
-    "dtrace-provider": "^0.7.0"
+    "dtrace-provider": "^0.8.7"
   },
   "devDependencies": {
     "cover": "^0.2.9",
