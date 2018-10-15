@@ -72,10 +72,8 @@
     "semver": "^4.3.3",
     "spdy": "^1.26.5",
     "tunnel-agent": "^0.4.0",
-    "verror": "^1.4.0"
-  },
-  "optionalDependencies": {
-    "dtrace-provider": "^0.4.0"
+    "verror": "^1.4.0",
+    "dtrace-provider": "^0.7.0"
   },
   "devDependencies": {
     "cover": "^0.2.9",
